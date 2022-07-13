@@ -1,0 +1,45 @@
+The internet is worldwide computer network that transmits a variety of data and media across interconnected devices.
+
+Protocols of the internet
+
+Transmission Control Protocol (TCP) Internet protocol that connects a server and a client. It enables application programs and computing devices to exchange messages over a network
+
+Internet Protocol (IP) protocol by which data is sent from one computer to another on the internet.
+
+User Datagram Protocol (UDP) protocol that is primarily used to establish low-latency and loss-tolerating connections between applications
+
+Post office Protocol (POP) a type of computer networking and Internet standard protocol that extracts and retrieves email from a remote mail server
+
+Simple mail transport Protocol (SMTP) protocol used in sending and receiving e-mail.
+
+File Transfer Protocol (FTP) protocol used for the transfer of computer files from a server to a client in a computer network
+
+Hyper Text Transfer Protocol (HTTP) protocol for distributed, collaborative, hypermedia information systems where resources are exchanged between client devices and servers over the internet
+
+Hyper Text Transfer Protocol Secure (HTTPS) a secure version of HTTP which is the primary protocol used to send data between a web browser and a website
+
+INTERNET ADDRESSING MODE
+
+Immediate Addressing Mode an instruction format that directly includes the data to be acted on as part of the instruction. 
+
+Register Addressing Mode the operand is placed in one of 8 bit or 16 bit general purpose registers
+
+Direct Addressing Mode the address field in the instruction contains the effective address of the operand and no intermediate memory access is required.
+
+Register Indirect Addressing Mode the data to be operated is available inside a memory location and that memory location is indirectly specified by a register pair
+
+Implied/Implicit Addressing Mode does not specify an effective address explicitly for either the destination or the source, or both sometimes.
+
+TYPES OF SERVERS
+
+File servers store and distribute files
+
+Print servers allow for the management and distribution of printing functionality
+
+Proxy servers connect between a client and an external server.
+
+Gaming servers connect gamers around the world to external servers for access to a game. Any online gaming community such as Xbox Live or Playstation Network are these types of servers.
+
+Web servers hold website files and are responsible for displaying websites in a browser. Everytime you go to a new website page a web server is responsible for making that happen.
+
+Application Servers share the territory between database servers and end users.
